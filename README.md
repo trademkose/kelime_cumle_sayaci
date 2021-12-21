@@ -1,3 +1,11 @@
+How to run?
+
+Main koduna inputfile ve threadnumber olarak argumanlar verirseniz çalışacaktır.
+örnek agrs:
+
+D:\Users\akose\Desktop\1.txt 5
+
+
 Aşağıdaki kriteleri sağlayan basit bir kelime ve cümle sayacı yapmak istersek;
 Parametre olarak bir txt dosyasının dosya sistemindeki adresini alacak.
 Programda bir ana thread ve sayısı parametrik olan (default 5) birden çok yardımcı thread olacak.
